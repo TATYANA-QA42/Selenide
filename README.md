@@ -1,7 +1,7 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/0wlafhrpy7exi3yi?svg=true)](https://ci.appveyor.com/project/TATYANA-QA42/selenide)
 # Selenide 
 ## Домашнее задание по курсу "Автоматизированное тестирование"
-## Тема: «2.2. Selenide», задание №1: «Заказ доставки карты», задание №2: «Взаимодействие с комплексными элементами»
+## Тема: «2.2. Selenide», задание №1: «Заказ доставки карты»
 - Применены инструменты:
     - Selenide.
 - Тестируемая функциональность:
